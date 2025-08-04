@@ -19,4 +19,8 @@ for i in range(2,10):
 
 
 for i in range(10,2,-1):
-    print("For loop is", i)
+    print("For loop is", i) 
+
+
+for i in range(0,1000,2):
+    print("All even numbers", i)
