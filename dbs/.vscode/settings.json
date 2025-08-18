@@ -1,0 +1,21 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "first_db",
+            "database": "${workspaceFolder:dbs}/sqlite/db.db"
+        },
+        {
+            "previewLimit": 50,
+            "server": "aws-1-ap-southeast-1.pooler.supabase.com",
+            "port": 5432,
+            "driver": "PostgreSQL",
+            "name": "randys_pg",
+            "database": "postgres",
+            "username": "postgres.uwqylrbrhvmcoumoxkrd",
+            "password": "H3FCj@aRcYP@snc"
+        }
+    ],
+    "sqltools.useNodeRuntime": true
+}
