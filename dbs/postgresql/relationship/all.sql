@@ -1,0 +1,3 @@
+CREATE TABLE hostel(
+    id BIGSERIAL PRIMARY KEY 
+)

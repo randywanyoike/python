@@ -1,5 +1,5 @@
 INSERT INTO student 
-(name,email,phone,pocket_money)
+(name,email,phone)
 VALUES
-('John Doe','john@john.com',3456546,10),
-('Delilah','delilah@gmail.com',458645,50)
+('John Doe', 'john@gmail.com', 1234567890),
+('Jane Smith', 'jane@gmail.com', 9876543210);

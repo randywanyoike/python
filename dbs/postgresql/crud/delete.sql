@@ -1,2 +1,2 @@
-DELETE FROM student
-WHERE id=5
+--DELETE FROM student
+--WHERE id=5
